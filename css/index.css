@@ -1,0 +1,14 @@
+body,html{
+   position: relative;
+}
+ .bgCanvas{
+     position: absolute;
+ }
+ 
+ .bcontainer-fluid{
+     position: absolute;
+     z-index: 999;
+ }
+ .welcome{
+     color: #fff;
+ }
